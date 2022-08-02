@@ -1,0 +1,18 @@
+body {
+  width: 60%;
+  margin: auto;
+}
+
+.date {
+  color: #3b5838;
+  font-family: "Roboto";
+}
+
+.post-container {
+  font-family: "Open Sans";
+  background-color: #abcccc;
+}
+
+.post {
+  padding: 20px 30px 20px 30px;
+}
